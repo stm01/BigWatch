@@ -1,0 +1,17 @@
+Number 	Name 	Description 			Note
+1 	VCC 	Input Voltage 			DC 3.2-5.0V; Typical: DC4.2 	
+2 	RX 	UART serial input 	
+3 	TX 	UART serial output 	
+4 	DAC_R 	Audio output right channel 	Drive earphone and amplifier
+5 	DAC_L 	Audio output left channel 	Drive earphone and amplifier
+6 	SPK2 	Speaker 			Drive speaker less than 3W
+7 	GND 	Ground 				Power Ground
+8 	SPK1 	Speaker 			Drive speaker less than 3W
+9 	IO1 	Trigger port 1 			Short pree to play previous(long press to decrease volume)
+10 	GND 	Ground 				Power Ground
+11 	IO2 	Trigger port 2 			Short pree to play next(long press to increase volume)
+12 	ADKEY1 	AD port 1 			Trigger play first segment
+13 	ADKEY2 	AD port 2 			Trigger play fifth segment
+14 	USB+ 	USB+ DP 			USB Port
+15 	USB- 	USB- DM 			USB Port
+16 	Busy 	Playing Status 			Low means playing\High means no 

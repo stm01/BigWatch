@@ -1,0 +1,9 @@
+Specification
+
+    supported sampling rates (kHz): 8/11.025/12/16/22.05/24/32/44.1/48
+    24 -bit DAC output, support for dynamic range 90dB , SNR support 85dB
+    fully supports FAT16 , FAT32 file system, maximum support 32G of the TF card, support 32G of U disk, 64M bytes NORFLASH
+    a variety of control modes, I/O control mode, serial mode, AD button control mode
+    advertising sound waiting function, the music can be suspended. when advertising is over in the music continue to play
+    audio data sorted by folder, supports up to 100 folders, every folder can hold up to 255 songs
+    30 level adjustable volume, 6 -level EQ adjustable
